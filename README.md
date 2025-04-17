@@ -53,18 +53,15 @@
 
 ---
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anjila-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Anjila-26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjila-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+-->
 ## ⚡ Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
-*Last updated on April 17, 2025*
-
