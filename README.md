@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjila-subedi-067a6a1a0/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Anjila-26) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23007ACC.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/anjilasubedi)
-https://anjila-26.github.io/portfolio/
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)](https://anjila-26.github.io/portfolio/)
 
 ---
 
