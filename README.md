@@ -1,6 +1,8 @@
 <!-- Banner Image -->
 # Hi, I'm Anjila Subedi 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Anjila-26&color=blueviolet&style=flat-square&label=Profile+Views)
+
 ### AI/ML Intern @ MECHA DAO LLC | B.Tech in AI, Kathmandu University
 
 ---
@@ -63,6 +65,6 @@
 -->
 ## ⚡ Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
