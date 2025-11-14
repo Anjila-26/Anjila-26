@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anjila-26&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### AI/ML Intern @ MECHA DAO LLC | B.Tech in AI, Kathmandu University
+### B.Tech in AI, Kathmandu University
 
 ---
 
